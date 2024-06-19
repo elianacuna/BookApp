@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "316096719009",
+    "project_id": "book-app-ab144",
+    "storage_bucket": "book-app-ab144.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316096719009:android:3e13118c4aeeed94fba8e0",
+        "android_client_info": {
+          "package_name": "com.technifysoft.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316096719009-om04fm90jq8vf5u5hg1rfth7dscrqmth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technifysoft.bookapp",
+            "certificate_hash": "ed3af8028fb9ae4aae14f23df705cf48a50647fd"
+          }
+        },
+        {
+          "client_id": "316096719009-14labhpbv885b40fv5p35jam9b24a3jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnhl5j3-2pvADhcvRstdZ_FxAKJzuqqDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316096719009-14labhpbv885b40fv5p35jam9b24a3jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
